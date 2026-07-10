@@ -16,7 +16,7 @@ const TermsAndConditions = () => {
           Agreement to Legal Terms
         </h2>
         <p>
-          By accessing or using DrDhirajJain.com (the "Website") and any of the services 
+          By accessing or using DhirajJain.com (the "Website") and any of the services 
           provided through the Website—including SaaS platforms, online courses, podcasts, 
           events, travel services, real estate services, and other offerings—you agree to be 
           bound by these Terms and Conditions (the "Terms"). These Terms apply to all users, 
@@ -275,7 +275,7 @@ const TermsAndConditions = () => {
         </h2>
         <p>
           <strong>Owner: <a href="https://DrDhirajJain.com" className="text-blue-600 hover:underline" target="_blank" rel="noreferrer">
-          DrDhirajJain.com
+          DhirajJain.com
         </a></strong><br />
           Email: <a href="mailto:support@1XL.com" className="text-blue-600 hover:underline">
           support@1XL.com
@@ -288,7 +288,7 @@ const TermsAndConditions = () => {
     </div>
 
     <p className="text-sm text-gray-500 mt-10 text-center">
-      © {new Date().getFullYear()} DrDhirajJain.com. All Rights Reserved.
+      © {new Date().getFullYear()} DhirajJain.com. All Rights Reserved.
     </p>
   </div>
 </div>

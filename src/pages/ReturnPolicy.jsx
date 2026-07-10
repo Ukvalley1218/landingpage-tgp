@@ -36,7 +36,7 @@ const ReturnPolicy=()=> {
           rel="noreferrer"
           className="text-indigo-600 hover:underline"
         >
-          DrDhirajJain.com
+          DhirajJain.com
         </a>
       </p>
       <p>
@@ -51,7 +51,7 @@ const ReturnPolicy=()=> {
       </p>
 
       <p className="mt-4">
-        At DrDhirajJain.com, providing quality services and transparency is of utmost 
+        At DhirajJain.com, providing quality services and transparency is of utmost 
         importance. This Refund & Cancellation Policy (the "Policy") explains how refunds, 
         cancellations, and fee adjustments are handled for all services offered, including 
         SaaS platforms, online courses, events, podcasts, travel bookings, real estate 
@@ -215,7 +215,7 @@ const ReturnPolicy=()=> {
       <h2 className="text-lg font-semibold mb-3">Payments & Financial Transactions</h2>
       <p className="text-gray-700">
         All transactions are processed by third-party providers (e.g., PayPal, credit card 
-        processors). DrMamataJain.com does not store any payment information. Users should 
+        processors). MamataJain.com does not store any payment information. Users should 
         refer to the payment provider’s privacy policy for more details.
       </p>
 
@@ -244,7 +244,7 @@ const ReturnPolicy=()=> {
       </div>
 
       <p className="mt-6">
-        © {new Date().getFullYear()} DrDhirajJain.com. All rights reserved.
+        © {new Date().getFullYear()} DhirajJain.com. All rights reserved.
       </p>
     </footer>
   </article>

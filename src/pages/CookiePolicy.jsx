@@ -18,7 +18,7 @@ function CookiePolicy() {
       <p>
         <strong>Website:</strong>{" "}
         <a href="https://DrDhirajJain.com" target="_blank" rel="noreferrer" className="text-blue-600 hover:underline">
-          DrDhirajJain.com
+          DhirajJain.com
         </a>
       </p>
       <p>
@@ -39,7 +39,7 @@ function CookiePolicy() {
     <section className="mb-8">
       <h2 className="text-2xl font-semibold mb-2">1. Introduction</h2>
       <p>
-        This Cookie Policy explains how DrMamataJain.com uses cookies and similar tracking 
+        This Cookie Policy explains how MamataJain.com uses cookies and similar tracking 
         technologies to improve your browsing experience, analyse website usage, and provide 
         personalised content. By using our website, you consent to the use of cookies in 
         accordance with this policy. If you do not wish to accept cookies, please modify your 
@@ -176,7 +176,7 @@ function CookiePolicy() {
       </p>
 
       <p className="mt-4">
-        © {new Date().getFullYear()} DrDhirajJain.com. All Rights Reserved.
+        © {new Date().getFullYear()} DhirajJain.com. All Rights Reserved.
       </p>
     </footer>
 

@@ -26,7 +26,7 @@ const ShippingPolicy = () => {
           rel="noreferrer"
           className="text-blue-600 hover:underline"
         >
-          DrDhirajJain.com
+          DhirajJain.com
         </a>
       </p>
 
@@ -46,7 +46,7 @@ const ShippingPolicy = () => {
 
       <p className="mb-6">
         This Shipping & Delivery Policy ("Policy") applies to all purchases made through
-        DrDhirajJain.com, including physical products, event tickets, and related services. By
+        DhirajJain.com, including physical products, event tickets, and related services. By
         purchasing from the Website, users agree to the terms outlined in this Policy.
       </p>
 
@@ -172,13 +172,13 @@ const ShippingPolicy = () => {
       </h2>
       <p className="mb-6">
         This Policy is governed by applicable laws in the UAE and India. Any disputes will be
-        resolved according to the terms and conditions of DrDhirajJain.com.
+        resolved according to the terms and conditions of DhirajJain.com.
       </p>
 
       <hr className="my-10 border-gray-300" />
 
       <p className="text-sm text-gray-600">
-        © {new Date().getFullYear()} DrDhirajJain.com. All rights reserved. This policy may
+        © {new Date().getFullYear()} DhirajJain.com. All rights reserved. This policy may
         be updated without prior notice as required by law or business needs.
       </p>
     </div>

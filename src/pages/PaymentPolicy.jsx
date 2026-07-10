@@ -17,7 +17,7 @@ function PaymentPolicy() {
       <p>
         <strong>Website:</strong>{" "}
         <a href="https://DrDhirajJain.com" className="text-blue-600 hover:underline" target="_blank" rel="noreferrer">
-          DrDhirajJain.com
+          DhirajJain.com
         </a>
       </p>
 
@@ -37,7 +37,7 @@ function PaymentPolicy() {
 
       <p className="mt-4">
         This Payment Policy explains how payments, refunds, and billing processes work for all 
-        services on DrDhirajJain.com, including SaaS tools, online courses, workshops, events, 
+        services on DhirajJain.com, including SaaS tools, online courses, workshops, events, 
         podcasts, travel services, and related offerings.
       </p>
     </section>
@@ -46,7 +46,7 @@ function PaymentPolicy() {
     <section className="mb-8">
       <h2 className="text-2xl font-semibold mb-2">1. Payment Currency</h2>
       <p>
-        All payments made on DrDhirajJain.com are processed in <strong>United States Dollars (USD)</strong>
+        All payments made on DhirajJain.com are processed in <strong>United States Dollars (USD)</strong>
         unless otherwise specified. Payments in other currencies may incur exchange rate fees 
         as determined by your payment provider.
       </p>
@@ -234,12 +234,12 @@ function PaymentPolicy() {
     {/* ---------------- Footer ---------------- */}
     <footer className="mt-10 border-t pt-6 text-sm text-gray-600">
       <p>
-        By using services on DrDhirajJain.com, you acknowledge and accept the terms of this 
+        By using services on DhirajJain.com, you acknowledge and accept the terms of this 
         Payment Policy.
       </p>
 
       <p className="mt-4">
-        © {new Date().getFullYear()} DrDhirajJain.com. All Rights Reserved.
+        © {new Date().getFullYear()} DhirajJain.com. All Rights Reserved.
       </p>
     </footer>
 
