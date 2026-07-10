@@ -12,7 +12,7 @@ function PaymentPolicy() {
 
     {/* ---------------- Organisation Details ---------------- */}
     <section className="mb-8">
-      <p><strong>Owner Name:</strong> Dr. Dhiraj Kantilal Jain</p>
+      <p><strong>Owner Name:</strong> Dhiraj Kantilal Jain</p>
 
       <p>
         <strong>Website:</strong>{" "}

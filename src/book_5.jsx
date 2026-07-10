@@ -329,15 +329,15 @@ const MarqueeContent = () => {
         },
         {
             question: "Does the book include real-life examples and practical frameworks?",
-            answer: "Yes, absolutely. The Growth PlayBook is designed as a highly practical, implementation-focused guide that includes case studies from Dr. Dhiraj Jain's own entrepreneurial journey, real business scenarios and challenges he encountered while scaling companies"
+            answer: "Yes, absolutely. The Growth PlayBook is designed as a highly practical, implementation-focused guide that includes case studies from Dhiraj Jain's own entrepreneurial journey, real business scenarios and challenges he encountered while scaling companies"
         },
         {
             question: "How is this book different from other business or self-growth books?",
             answer: "The Growth PlayBook is written by an entrepreneur who actually built and scaled businesses, not just studied them academically. Unlike books that focus on mindset and motivation, this provides concrete operational systems and frameworks you can implement immediately. "
         },
         {
-            question: "Is this book based on Dr. Dhiraj Jain’s real business experience?",
-            answer: "Dr. Dhiraj Jain is an entrepreneur and business strategist who has built and scaled multiple businesses. The book draws from his practical experience in growing his own companies from startup to significant scale, implementing systems and processes that enabled sustainable growth"
+            question: "Is this book based on Dhiraj Jain’s real business experience?",
+            answer: "Dhiraj Jain is an entrepreneur and business strategist who has built and scaled multiple businesses. The book draws from his practical experience in growing his own companies from startup to significant scale, implementing systems and processes that enabled sustainable growth"
         },
         {
             question: " Where can I buy the book or get a sample chapter?",
@@ -345,7 +345,7 @@ const MarqueeContent = () => {
         },
         {
             question: "Why should I trust this author?",
-            answer: "Dr. Dhiraj Kantilal Jain is a proven entrepreneur who has successfully built and scaled multiple businesses from the ground up, giving him firsthand experience with the challenges you're facing. He's not a theoretical consultant but someone who has actually implemented these systems in his own companies and achieved measurable results."
+            answer: "Dhiraj Kantilal Jain is a proven entrepreneur who has successfully built and scaled multiple businesses from the ground up, giving him firsthand experience with the challenges you're facing. He's not a theoretical consultant but someone who has actually implemented these systems in his own companies and achieved measurable results."
         }
     ];
 
@@ -784,7 +784,7 @@ const MarqueeContent = () => {
                         <div className="space-y-6 w-[100%] sm:w-[50%]">
                             <h2 className="text-black font-ibmplex text-[50px] font-bold mb-6 leading-tight sm: -mt-5">Meet The <span className='text-[#6A3F43]'>Visionary </span> Behind The Book
                             </h2>
-                            <h3 className="text-[27px] font-bold text-[#6A3F43]">Dr. Dhiraj Jain</h3>
+                            <h3 className="text-[27px] font-bold text-[#6A3F43]">Dhiraj Jain</h3>
                             <ul className='list-disc pl-6 space-y-2 text[20px] text-black text-justify'>
                                 <li>
                                     He is a transformative <strong>Business mentor, Entrepreneur, and Philanthropist</strong>, widely recognised for his influence across real estate, technology, and leadership development. With <strong>20+ years of experience</strong>, he has helped countless businesses achieve sustainable growth through strategic thinking and innovation.
@@ -815,7 +815,7 @@ const MarqueeContent = () => {
                     Beyond the Book: A Legacy of Impact
                 </center>
                 <center className="lg:text-[22px] text-[20px] text-white mt-5 text-justify">
-                    Dr. Dhiraj Jain has been honoured with prestigious recognitions such as {" "}
+                    Dhiraj Jain has been honoured with prestigious recognitions such as {" "}
                     <span className="text-[#E1DB3A]">The Economic Times Indo Global Leaders Award, </span>
                     being listed among
                     <span className="text-[#E1DB3A]"> The Most Influential CEOs,</span> and receiving <span className="text-[#E1DB3A]">The Iconic Power Couple of the UAE award by India Today Group</span> a testament to his leadership, vision, and industry-defining contributions. Through
@@ -1067,7 +1067,7 @@ const MarqueeContent = () => {
                             <p className="text-[16px] md:text-[18px] text-gray-700 leading-relaxed mb-6 flex-grow text-justify border-t-2 border-[#A66B71] pt-6">
                                 “Feels like having a business mentor guiding you on every page.”
 
-                                Dr. Dhiraj Jain’s real-world examples and frameworks helped me rethink my marketing, customer experience, and long-term strategy. My revenue and confidence both increased.
+                                Dhiraj Jain’s real-world examples and frameworks helped me rethink my marketing, customer experience, and long-term strategy. My revenue and confidence both increased.
                             </p>
                             <div>
                                 <div className="flex justify-center mb-4">
@@ -1174,7 +1174,7 @@ Learn strategies, systems, and frameworks to build, scale, and sustain a purpose
 
                         {/* Center - Book Image */}
                         <div className="flex justify-center items-center lg:py-8 -mt-15 mb-5">
-                            <img loading="lazy" src={image11} alt="What You Will Learn" className="w-70 md:w-110 xl:mt-15 lg:w-105 lg:h-125 l:mt-25 xl:-mt-5  md: mt-30 xl:px-5 md: h-100 md:h-145" />
+                            <img loading="lazy" src={image11} alt="What You Will Learn" className="w-70 md:w-110 xl:mt-15 lg:w-125 lg:h-122 l:mt-25 xl:-mt-5  md: mt-30 xl:px-5 md: h-100 md:h-145" />
                         </div>
 
                         {/* Right Column */}
@@ -1497,7 +1497,7 @@ Proven strategies and frameworks to build a solid business foundation with smart
                                         Our Approach to Business Growth Has Created Transformation Beyond Expectation
                                     </div>
                                     <p className="text-[18px] text-[#000000BF] leading-relaxed mt-6">
-                                        By following Dr. Dhiraj Jain’s proven Foundations - Systems - Growth framework, entrepreneurs are now building businesses that give them clarity, stability, and the freedom to scale on their terms.
+                                        By following Dhiraj Jain’s proven Foundations - Systems - Growth framework, entrepreneurs are now building businesses that give them clarity, stability, and the freedom to scale on their terms.
                                     </p>
                                 </div>
                                 <div className="flex justify-center lg:justify-start">
@@ -1552,7 +1552,7 @@ Proven strategies and frameworks to build a solid business foundation with smart
                                         We Built Success Through Strategy And Focus
                                     </div>
                                     <p className="text-[18px] text-[#000000BF] leading-relaxed mt-6 ml-8 text-justify">
-                                        Dr. Dhiraj Jain's built lasting success through vision, discipline, and smart strategy and now shares those principles inside The Growth PlayBook.
+                                        Dhiraj Jain's built lasting success through vision, discipline, and smart strategy and now shares those principles inside The Growth PlayBook.
                                     </p>
                                 </div>
                                 <div className="flex justify-center">
@@ -1877,7 +1877,7 @@ Proven strategies and frameworks to build a solid business foundation with smart
 
                     <p className="text-center text-gray-300 text-sm pb-15">
                         © 2026
-                        <a href="https://drdhirajjain.com/" target="blank" className="hover:text-yellow-400 cursor-pointer"> Dr. Dhiraj Jain. </a>
+                        <a href="https://drdhirajjain.com/" target="blank" className="hover:text-yellow-400 cursor-pointer"> Dhiraj Jain. </a>
                         All Rights Reserved.
                     </p>
 

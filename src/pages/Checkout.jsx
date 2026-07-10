@@ -935,7 +935,7 @@ useEffect(() => {
                           {item.book_name.replace(/\s\(.+\)/, "")}
                         </h3>
                         <p className="text-gray-500 text-sm mt-1">
-                          by Dr. Dhiraj Jain
+                          by Dhiraj Jain
                         </p>
 
                         <div className="flex gap-8 mt-6">
@@ -1319,7 +1319,7 @@ useEffect(() => {
                       {product.name}
                     </h3>
                     <p className="text-sm text-gray-500 mb-3">
-                      by Dr. Dhiraj Jain
+                      by Dhiraj Jain
                     </p>
 
                     {product.author && (
@@ -1458,7 +1458,7 @@ useEffect(() => {
             {product.name}
           </h4>
           <p className="text-[10px] md:text-sm text-gray-500 mb-2 md:mb-4">
-            by Dr. Dhiraj Jain
+            by Dhiraj Jain
           </p>
 
           {/* Hardcopy Option */}

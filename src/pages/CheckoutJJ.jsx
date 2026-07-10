@@ -938,7 +938,7 @@ const fetchLocation = async () => {
                           {item.name.replace(/\s\(.+\)/, "")}
                         </h3>
                         <p className="text-gray-500 text-sm mt-1">
-                          by Dr. Dhiraj Jain
+                          by Dhiraj Jain
                         </p>
 
                         <div className="flex gap-8 mt-6">
@@ -1281,7 +1281,7 @@ const fetchLocation = async () => {
                       {product.name}
                     </h3>
                     <p className="text-sm text-gray-500 mb-3">
-                      by Dr. Dhiraj Jain
+                      by Dhiraj Jain
                     </p>
 
                     {product.author && (
@@ -1412,7 +1412,7 @@ const fetchLocation = async () => {
                       {product.name}
                     </h4>
                     <p className="text-sm text-gray-500 mb-4">
-                      by Dr. Dhiraj Jain
+                      by Dhiraj Jain
                     </p>
 
                     {/* Hardcopy Option */}

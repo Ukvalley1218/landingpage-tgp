@@ -94,7 +94,7 @@ const TermsAndConditions = () => {
         </h2>
         <p>
           All content, designs, trademarks, software, images, and intellectual property on 
-          the Website are owned by Dr. Dhiraj Kantilal Jain or licensed appropriately. Users 
+          the Website are owned by Dhiraj Kantilal Jain or licensed appropriately. Users 
           may not reproduce, distribute, modify, or exploit any materials without written 
           permission.
         </p>
